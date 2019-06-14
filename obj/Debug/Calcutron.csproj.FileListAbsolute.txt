@@ -1,0 +1,16 @@
+C:\Users\Karim\Desktop\Файлы\C#      Projects\1)Calcutron\Calcurton\Calcutron\Calcutron\bin\Debug\Calcutron.exe.config
+C:\Users\Karim\Desktop\Файлы\C#      Projects\1)Calcutron\Calcurton\Calcutron\Calcutron\bin\Debug\Calcutron.exe
+C:\Users\Karim\Desktop\Файлы\C#      Projects\1)Calcutron\Calcurton\Calcutron\Calcutron\bin\Debug\Calcutron.pdb
+C:\Users\Karim\Desktop\Файлы\C#      Projects\1)Calcutron\Calcurton\Calcutron\Calcutron\obj\Debug\Calcutron.csprojResolveAssemblyReference.cache
+C:\Users\Karim\Desktop\Файлы\C#      Projects\1)Calcutron\Calcurton\Calcutron\Calcutron\obj\Debug\Calcutron.exe
+C:\Users\Karim\Desktop\Файлы\C#      Projects\1)Calcutron\Calcurton\Calcutron\Calcutron\obj\Debug\Calcutron.pdb
+C:\Users\Karim\Desktop\Файлы\C#      Projects\1)Calcutron\Calcurton\Calcutron\Calcutron\obj\Debug\Calcutron.MainForm.resources
+C:\Users\Karim\Desktop\Файлы\C#      Projects\1)Calcutron\Calcurton\Calcutron\Calcutron\obj\Debug\Calcutron.csproj.GenerateResource.Cache
+C:\Users\Karim\Desktop\Файлы\C#      Projects\1)Calcutron\Calcurton\Calcutron\bin\Debug\Calcutron.exe.config
+C:\Users\Karim\Desktop\Файлы\C#      Projects\1)Calcutron\Calcurton\Calcutron\obj\Debug\Calcutron.exe
+C:\Users\Karim\Desktop\Файлы\C#      Projects\1)Calcutron\Calcurton\Calcutron\obj\Debug\Calcutron.pdb
+C:\Users\Karim\Desktop\Файлы\C#      Projects\1)Calcutron\Calcurton\Calcutron\bin\Debug\Calcutron.exe
+C:\Users\Karim\Desktop\Файлы\C#      Projects\1)Calcutron\Calcurton\Calcutron\bin\Debug\Calcutron.pdb
+C:\Users\Karim\Desktop\Файлы\C#      Projects\1)Calcutron\Calcurton\Calcutron\obj\Debug\Calcutron.csprojResolveAssemblyReference.cache
+C:\Users\Karim\Desktop\Файлы\C#      Projects\1)Calcutron\Calcurton\Calcutron\obj\Debug\Calcutron.MainForm.resources
+C:\Users\Karim\Desktop\Файлы\C#      Projects\1)Calcutron\Calcurton\Calcutron\obj\Debug\Calcutron.csproj.GenerateResource.Cache
